@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://umass-my.sharepoint.com/:i:/g/personal/jianxinlin_umass_edu/ETZWtPf9NepFqyaQ1xZ0bcMBJRfPR6VoBxynIFQCskqP9w?e=UdKAvL' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='assets/web102prework.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with OBS & Shortcuts
