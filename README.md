@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='assets/2025-05-01 17-50-02.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='ignored/2025-05-01 17-50-02.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with OBS & Shortcuts
